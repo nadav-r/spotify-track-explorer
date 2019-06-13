@@ -1,0 +1,21 @@
+body{
+	background: url('./bg.jpg') no-repeat center center fixed;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family:'Inconsolata', monospace;
+
+}
+
+.lists-div{
+	display: flex;
+	justify-content: space-evenly;
+	align-content: baseline;
+
+}
+
+input[type="text"]{
+	background-color: white;
+}
