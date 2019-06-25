@@ -1,3 +1,8 @@
+A project in react to expirience with spotify api. 
+Spotify-Track-Explorer lets the user load his recent favorites tracks and explore various aspects about them. 
+It also allow the user to create a new spotify playlist.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
