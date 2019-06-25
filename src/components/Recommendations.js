@@ -52,7 +52,7 @@ class Recommendations extends Component {
 	render(){
 		return(
 			<div>
-				<h2>Your top artists...</h2>
+				<h2>Feature unavailable yet...</h2>
 			</div>
 		)
 
